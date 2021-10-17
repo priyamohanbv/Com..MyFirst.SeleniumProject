@@ -14,6 +14,7 @@ public class LocatorExample {
 		
 		driver = new ChromeDriver();
 		driver.get("http://facebook.com");
+		//this is the new code i am added
 		
 		
 
